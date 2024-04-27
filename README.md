@@ -1,60 +1,50 @@
-# Hello, I'm Jay-B
+<h1 style="font-family: 'Press Start 2P', cursive; background-color: #1c1c1c; color: #8cff8c;">Hello, I'm Jay-B 👾 </h1> 
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction - Remove this afterwards] 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 💻
 
-## Objective
+## Objective 🚀
 [Provide Objective - Remove this afterwards]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 🛡
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]
+## Skills (💪)
 
-| Skill                                      | Associated Project                  |
-|--------------------------------------------|-------------------------------------|
-| SIEM Implementation and Log Analysis       | [Detection Lab](https://google.com) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
-| Security Automation with Shuffle SOAR     | SOC Automation Lab                  |
-| Incident Response Planning and Execution  | SOC Automation Lab                  |
-| Case Management with TheHive              | SOC Automation Lab                  |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab             |
+| Skill                     | Associated Project     |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis     | <a href="https://google.com">Detection Lab 🔎</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab 🔎</a>|
+| Security Automation with Shuffle SOAR     | SOC Automation Lab 🤖|
+| Incident Response Planning and Execution   | SOC Automation Lab 🤖|
+| Case Management with TheHive         | SOC Automation Lab 📂|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab 🛡️|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]
+## Tools 🔧
 
-### Network
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+### Network 
+* <img src="https://tryhackme.com/Cyb3rad/badges/wireshark" />
+* <img src="https://docs.suricata.io/_/downloads/en/suricata-7.0.3/pdf/" />
+* <img src="https://coinbay.io/en/instructions-for-minting-the-proof-of-zeek-badge-29063" />
 
 ### Endpoint
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+* <img src="https://answers.microsoft.com/en-us/insider/forum/all/windows-defender-tray-icon-showing-red-x-though-ui/fa98a287-d77d-4458-b45d-9441c2408d05" />
+* <img src="https://www.tcgplayer.com/product/525385/magic-universes-beyond-jurassic-world-collection-hunting-velociraptor-borderless-emblem" />
 
 ### SIEM
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+* <img src="https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-sentinel-using-rule-templates/ba-p/2028427" />
+* <img src="https://www.credly.com/organizations/splunk/badges" />
+* <img src="https://www.amazon.com/elastic-badge-holder/s?k=elastic+badge+holder" />
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## Certifications 🏆
+* <img src="https://www.comptia.org/certifications/comptia-digital-badges" />
+* <img src="https://www.comptia.org/certifications/network" />
+* <img src="https://www.comptia.org/certifications/comptia-digital-badges" />
+* <img src="https://www.cdse.edu/Im-looking-for/My-Certificates-Digital-Badges-Transcripts/My-Digital-Badges/" />
+* <img src="https://www.cannabisbadges.com/" />
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+## Projects 🚀
+* Detection Lab
+* SOC Automation Project
+
