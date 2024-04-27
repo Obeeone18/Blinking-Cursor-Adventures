@@ -1,11 +1,11 @@
 <h1 style="font-family: 'Press Start 2P', cursive; background-color: #1c1c1c; color: #8cff8c;">Hello, I'm Jay 👾 </h1> 
 <a href="https://www.linkedin.com/in/jnavidad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 💻
+Cybersecurity enthusiast with a knack for problem-solving. 💻
 
 ## Objective 🚀
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 🛡
+Developing a strong foundation in security operations through practical projects to confidently contribute to a SOC team's threat detection and incident response efforts as a Tier 1 analyst, leading to a rewarding career in cybersecurity. 🛡
 
 ## Skills 💪
 
