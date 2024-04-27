@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Press Start 2P', cursive; background-color: #1c1c1c; color: #8cff8c;">Hello, I'm Jay 👾 </h1> 
-<a href="www.linkedin.com/in/jnavidad"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jnavidad/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 💻
 
