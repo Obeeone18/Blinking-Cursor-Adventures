@@ -55,7 +55,7 @@ Developing a strong foundation in security operations through practical projects
 
 ## Certifications 🎓
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="(https://www.credly.com/badges/a443a5c8-c1c5-4faa-b767-9a826d7f5ae0/public_url)"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Google_IT_Fundamentals-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
