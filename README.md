@@ -67,3 +67,5 @@ Developing a strong foundation in security operations through practical projects
 
 ## Explainer 📖
 -Networking Basics 🌐
+ -<a href="<a href="https://github.com/Obeeone18/Networking-Basics/tree/main">Connect the Dots: How Computers Talk to Each Other
+</a>
