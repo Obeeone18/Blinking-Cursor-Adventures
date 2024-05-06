@@ -63,3 +63,7 @@ Developing a strong foundation in security operations through practical projects
 ## Projects 🚀
 - Detection Lab
 - SOC Automation Project
+
+
+## Explainer 📖
+-Networking Basics 🌐
